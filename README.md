@@ -1,2 +1,2 @@
-# MyFirstWebBuild
-/https://unsocialpotato.github.io/MyFirstWebBuild/
+# MadLib
+https://unsocialpotato.github.io/MyFirstWebBuild/
