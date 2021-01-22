@@ -1,1 +1,2 @@
-# MyFirstWebBuild/https://unsocialpotato.github.io/MyFirstWebBuild/
+# MyFirstWebBuild
+/https://unsocialpotato.github.io/MyFirstWebBuild/
